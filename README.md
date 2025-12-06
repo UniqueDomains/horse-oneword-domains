@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .HORSE one-word domains still available to buy.
 
-This dataset contains 4,668 .HORSE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,670 .HORSE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.HORSE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=horse-oneword-domains&utm_content=description.top) (4,669) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.HORSE one word domain
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | a.horse          | premium   | 46       | 2%     | 6      |           |         |         |
 | aaa.horse        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.horse      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.horse      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.horse  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.horse      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.horse  | available | 58       | 7%     | 9      |           |         |         |
