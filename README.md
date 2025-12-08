@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .HORSE one-word domains still available to buy.
 
-This dataset contains 4,686 .HORSE one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,023 .HORSE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.HORSE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=horse-oneword-domains&utm_content=description.top) (4,684) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.HORSE one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/horse-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/horse-oneword-domains/blob/main/horse.csv"><b>⬇️ CSV (4.69K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/horse-oneword-domains/blob/main/horse.json"><b>⬇️ JSON (4.69K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/horse-oneword-domains/blob/main/horse.csv"><b>⬇️ CSV (5.02K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/horse-oneword-domains/blob/main/horse.json"><b>⬇️ JSON (5.02K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=horse-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.68K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -22,8 +22,8 @@ If you want to search & filters the complete database of [.HORSE one word domain
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | a.horse          | premium   | 46       | 2%     | 6      |           |         |         |
-| aaa.horse        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.horse      | premium   | 88       | 32%    | 5      |           |         |         |
+| aaa.horse        | available | 70       | 35%    | 3      |           |         |         |
+| aaron.horse      | premium   | 88       | 28%    | 5      |           |         |         |
 | abactinal.horse  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.horse      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.horse  | available | 58       | 7%     | 9      |           |         |         |
@@ -44,18 +44,18 @@ If you want to search & filters the complete database of [.HORSE one word domain
 | aberrant.horse   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.horse    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.horse  | available | 54       | 3%     | 9      |           |         |         |
+| abide.horse      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.horse    | available | 106      | 5%     | 7      |           |         |         |
 | abient.horse     | available | 54       | 1%     | 6      |           |         |         |
-| ability.horse    | available | 92       | 18%    | 7      |           |         |         |
+| ability.horse    | available | 92       | 16%    | 7      |           |         |         |
 | abject.horse     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.horse     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.horse  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.horse     | available | 82       | 2%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/horse-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/horse-oneword-domains/blob/main/horse.csv"><b>⬇️ CSV (4.69K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/horse-oneword-domains/blob/main/horse.json"><b>⬇️ JSON (4.69K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/horse-oneword-domains/blob/main/horse.csv"><b>⬇️ CSV (5.02K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/horse-oneword-domains/blob/main/horse.json"><b>⬇️ JSON (5.02K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=horse-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.68K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.HORSE one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
