@@ -69,10 +69,10 @@ print(df.head())
 | converse.horse  | premium   | $50       | $45.99        | 64             | 73     | 8      | name.com        |
 | seventeen.horse | available | $41.98    | —             | 84             | 62     | 9      | namecheap       |
 | apple.horse     | resell    | —         | —             | 98             | 88     | 5      | Spaceship, Inc. |
-| free.horse      | premium   | $500      | $45.99        | 88             | 59     | 4      | name.com        |
+| ace.horse       | premium   | $500      | $45.99        | 88             | 57     | 3      | name.com        |
 | athletics.horse | available | $41.98    | —             | 69             | 52     | 9      | namecheap       |
 | fire.horse      | resell    | —         | —             | 80             | 75     | 4      | Dynadot Inc     |
-| ace.horse       | premium   | $500      | $45.99        | 88             | 57     | 3      | name.com        |
+| free.horse      | premium   | $500      | $45.99        | 88             | 57     | 4      | name.com        |
 | clear.horse     | available | $41.98    | —             | 90             | 47     | 5      | namecheap       |
 | switch.horse    | resell    | —         | —             | 70             | 68     | 6      | Dynadot Inc     |
 | zero.horse      | premium   | $100      | $45.99        | 112            | 53     | 4      | name.com        |
@@ -82,7 +82,7 @@ print(df.head())
 | genius.horse    | available | $41.98    | —             | 98             | 45     | 6      | namecheap       |
 | space.horse     | resell    | —         | —             | 80             | 61     | 5      | Dynadot Inc     |
 | air.horse       | premium   | $104      | $31.20        | 84             | 49     | 3      | namecheap       |
-| forge.horse     | available | $41.98    | —             | 62             | 45     | 5      | namecheap       |
+| forge.horse     | available | $41.98    | —             | 62             | 44     | 5      | namecheap       |
 | pay.horse       | resell    | —         | —             | 84             | 60     | 3      | Sav.com LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
