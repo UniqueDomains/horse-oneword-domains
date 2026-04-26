@@ -1,22 +1,22 @@
-# Available .HORSE One-Word Domains (9,418)
+# Available .HORSE One-Word Domains (11,836)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C418%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C418%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C836%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .horse one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .horse one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,836 domains** on the canonical page below.
 
-**Public extract:** 9,418 rows · **Live catalog:** 9,418 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,836 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/horse`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HORSE one-word domain
 
 ### Files
 
-- `horse.csv` — public CSV extract (9,418 rows)
-- `horse.json` — public JSON extract (9,418 rows)
+- `horse.csv` — public CSV extract (1,000 rows)
+- `horse.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| block.horse     | available | $41.98    | —             | 68             | 98     | 5      | namecheap       |
-| true.horse      | resell    | $41.98    | —             | 86             | 52     | 4      | Porkbun         |
-| converse.horse  | premium   | $50       | $45.99        | 64             | 73     | 8      | name.com        |
-| seventeen.horse | available | $41.98    | —             | 84             | 62     | 9      | namecheap       |
-| apple.horse     | resell    | —         | —             | 98             | 88     | 5      | Spaceship, Inc. |
-| ace.horse       | premium   | $500      | $45.99        | 88             | 57     | 3      | name.com        |
-| athletics.horse | available | $41.98    | —             | 69             | 52     | 9      | namecheap       |
-| fire.horse      | resell    | —         | —             | 80             | 75     | 4      | Dynadot Inc     |
-| free.horse      | premium   | $500      | $45.99        | 88             | 57     | 4      | name.com        |
-| clear.horse     | available | $41.98    | —             | 90             | 47     | 5      | namecheap       |
-| switch.horse    | resell    | —         | —             | 70             | 68     | 6      | Dynadot Inc     |
-| zero.horse      | premium   | $100      | $45.99        | 112            | 53     | 4      | name.com        |
-| snap.horse      | available | $41.98    | —             | 90             | 46     | 4      | namecheap       |
-| domain.horse    | resell    | —         | —             | 80             | 64     | 6      | Spaceship, Inc. |
-| life.horse      | premium   | $52       | $31.20        | 84             | 50     | 4      | namecheap       |
-| genius.horse    | available | $41.98    | —             | 98             | 45     | 6      | namecheap       |
-| space.horse     | resell    | —         | —             | 80             | 61     | 5      | Dynadot Inc     |
-| air.horse       | premium   | $104      | $31.20        | 84             | 49     | 3      | namecheap       |
-| forge.horse     | available | $41.98    | —             | 62             | 44     | 5      | namecheap       |
-| pay.horse       | resell    | —         | —             | 84             | 60     | 3      | Sav.com LLC     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| RedSox.horse      | available | $43.98    | —             | 72             | 60     | 7      | namecheap   |
+| breeds.horse      | resell    | —         | —             | 60             | 4      | 6      | Dynadot Inc |
+| justin.horse      | premium   | $100      | —             | 58             | 38     | 7      | name.com    |
+| farmers.horse     | available | $43.98    | —             | 54             | 59     | 7      | namecheap   |
+| events.horse      | premium   | $2,500    | —             | 68             | 37     | 6      | name.com    |
+| cars.horse        | available | $43.98    | —             | 66             | 47     | 4      | namecheap   |
+| tips.horse        | premium   | $100      | —             | 80             | 26     | 4      | name.com    |
+| skills.horse      | available | $43.98    | —             | 58             | 47     | 6      | namecheap   |
+| girls.horse       | premium   | $500      | —             | 83             | 23     | 5      | name.com    |
+| lets.horse        | available | $43.98    | —             | 77             | 39     | 4      | namecheap   |
+| VHS.horse         | premium   | $56       | $35           | 71             | 20     | 3      | namecheap   |
+| homes.horse       | available | $43.98    | —             | 86             | 34     | 5      | namecheap   |
+| vacations.horse   | premium   | $242      | $29.50        | 56             | 19     | 9      | namesilo    |
+| tickets.horse     | available | $32.49    | $32.49        | 64             | 34     | 7      | namesilo    |
+| Apples.horse      | premium   | $112      | $35           | 90             | 16     | 6      | namecheap   |
+| etc.horse         | available | $43.98    | —             | 58             | 34     | 3      | namecheap   |
+| oaks.horse        | premium   | $854      | $29.50        | 53             | 16     | 4      | namesilo    |
+| inspiration.horse | available | $43.98    | —             | 88             | 30     | 11     | namecheap   |
+| riders.horse      | premium   | $242      | $29.50        | 60             | 14     | 6      | namesilo    |
+| rewards.horse     | available | $32.49    | $32.49        | 62             | 30     | 7      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,418-row public sample | 9,418 live domains                               |
+| 1,000-row public sample | 11,836 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
