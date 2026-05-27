@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .horse one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,384 domains · **Median ask:** $53.51 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/horse`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| RedSox.horse      | available | $43.98    | —             | 72             | 60     | 7      | namecheap   |
-| breeds.horse      | resell    | —         | —             | 60             | 4      | 6      | Dynadot Inc |
-| justin.horse      | premium   | $100      | —             | 58             | 38     | 7      | name.com    |
-| farmers.horse     | available | $43.98    | —             | 54             | 59     | 7      | namecheap   |
-| events.horse      | premium   | $2,500    | —             | 68             | 37     | 6      | name.com    |
-| cars.horse        | available | $43.98    | —             | 66             | 47     | 4      | namecheap   |
-| slots.horse       | premium   | $47.20    | $29.50        | 49             | 31     | 5      | namesilo    |
-| skills.horse      | available | $43.98    | —             | 58             | 47     | 6      | namecheap   |
-| tips.horse        | premium   | $100      | —             | 80             | 26     | 4      | name.com    |
-| lets.horse        | available | $43.98    | —             | 77             | 39     | 4      | namecheap   |
-| toys.horse        | premium   | $242      | $29.50        | 60             | 24     | 4      | namesilo    |
-| homes.horse       | available | $43.98    | —             | 86             | 34     | 5      | namecheap   |
-| girls.horse       | premium   | $500      | —             | 83             | 23     | 5      | name.com    |
-| tickets.horse     | available | $32.49    | $32.49        | 64             | 34     | 7      | namesilo    |
-| VHS.horse         | premium   | $56       | $35           | 71             | 20     | 3      | namecheap   |
-| etc.horse         | available | $43.98    | —             | 58             | 34     | 3      | namecheap   |
-| vacations.horse   | premium   | $242      | $29.50        | 56             | 19     | 9      | namesilo    |
-| inspiration.horse | available | $43.98    | —             | 88             | 30     | 11     | namecheap   |
-| oaks.horse        | premium   | $854      | $29.50        | 53             | 16     | 4      | namesilo    |
-| rewards.horse     | available | $32.49    | $32.49        | 62             | 30     | 7      | namesilo    |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| RedSox.horse    | available | $43.98    | —             | 72             | 60     | 7      | namecheap   |
+| breeds.horse    | resell    | —         | —             | 60             | 4      | 6      | Dynadot Inc |
+| justin.horse    | premium   | $100      | —             | 58             | 38     | 7      | name.com    |
+| farmers.horse   | available | $43.98    | —             | 54             | 59     | 7      | namecheap   |
+| events.horse    | premium   | $2,500    | —             | 68             | 37     | 6      | name.com    |
+| cars.horse      | available | $43.98    | —             | 66             | 47     | 4      | namecheap   |
+| slots.horse     | premium   | $47.20    | $29.50        | 49             | 31     | 5      | namesilo    |
+| skills.horse    | available | $43.98    | —             | 58             | 47     | 6      | namecheap   |
+| tips.horse      | premium   | $100      | —             | 80             | 26     | 4      | name.com    |
+| lets.horse      | available | $43.98    | —             | 77             | 39     | 4      | namecheap   |
+| toys.horse      | premium   | $242      | $29.50        | 60             | 24     | 4      | namesilo    |
+| homes.horse     | available | $43.98    | —             | 86             | 34     | 5      | namecheap   |
+| girls.horse     | premium   | $500      | —             | 83             | 23     | 5      | name.com    |
+| tickets.horse   | available | $32.49    | $32.49        | 64             | 34     | 7      | namesilo    |
+| VHS.horse       | premium   | $56       | $35           | 71             | 20     | 3      | namecheap   |
+| etc.horse       | available | $43.98    | —             | 58             | 32     | 3      | namecheap   |
+| vacations.horse | premium   | $242      | $29.50        | 56             | 19     | 9      | namesilo    |
+| rewards.horse   | available | $32.49    | $32.49        | 62             | 30     | 7      | namesilo    |
+| oaks.horse      | premium   | $854      | $29.50        | 53             | 16     | 4      | namesilo    |
+| pages.horse     | available | $43.98    | —             | 52             | 28     | 5      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
