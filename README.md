@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .horse one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,384 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,384 domains · **Median ask:** $53.51 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,384 domains · **Median ask:** $65.54 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/horse`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/horse`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HORSE one-word domain
 
 ### Files
 
-- `horse.csv` — public CSV extract (1,000 rows)
-- `horse.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `horse.csv`, public CSV extract (1,000 rows)
+- `horse.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| RedSox.horse    | available | $43.98    | —             | 72             | 60     | 7      | namecheap   |
-| breeds.horse    | resell    | —         | —             | 60             | 4      | 6      | Dynadot Inc |
-| justin.horse    | premium   | $100      | —             | 58             | 38     | 7      | name.com    |
-| farmers.horse   | available | $43.98    | —             | 54             | 59     | 7      | namecheap   |
-| events.horse    | premium   | $2,500    | —             | 68             | 37     | 6      | name.com    |
-| cars.horse      | available | $43.98    | —             | 66             | 47     | 4      | namecheap   |
-| slots.horse     | premium   | $47.20    | $29.50        | 49             | 31     | 5      | namesilo    |
-| skills.horse    | available | $43.98    | —             | 58             | 47     | 6      | namecheap   |
-| tips.horse      | premium   | $100      | —             | 80             | 26     | 4      | name.com    |
-| lets.horse      | available | $43.98    | —             | 77             | 39     | 4      | namecheap   |
-| toys.horse      | premium   | $242      | $29.50        | 60             | 24     | 4      | namesilo    |
-| homes.horse     | available | $43.98    | —             | 86             | 34     | 5      | namecheap   |
-| girls.horse     | premium   | $500      | —             | 83             | 23     | 5      | name.com    |
-| tickets.horse   | available | $32.49    | $32.49        | 64             | 34     | 7      | namesilo    |
-| VHS.horse       | premium   | $56       | $35           | 71             | 20     | 3      | namecheap   |
-| etc.horse       | available | $43.98    | —             | 58             | 32     | 3      | namecheap   |
-| vacations.horse | premium   | $242      | $29.50        | 56             | 19     | 9      | namesilo    |
-| rewards.horse   | available | $32.49    | $32.49        | 62             | 30     | 7      | namesilo    |
-| oaks.horse      | premium   | $854      | $29.50        | 53             | 16     | 4      | namesilo    |
-| pages.horse     | available | $43.98    | —             | 52             | 28     | 5      | namecheap   |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| out.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| off.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| aaa.horse    | available | $41.98    | —             | high           | low    | 3      | namecheap        |
+| cock.horse   | resell    | —         | —             | medium         | low    | 4      | Sav.com LLC      |
+| ADS.horse    | premium   | $500      | —             | high           | medium | 3      | name.com         |
+| BJP.horse    | available | $43.98    | —             | medium         | low    | 3      | namecheap        |
+| pure.horse   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| aim.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| ing.horse    | available | $32.49    | $32.49        | medium         | low    | 3      | namesilo         |
+| side.horse   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| are.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| los.horse    | available | $43.98    | —             | high           | low    | 3      | namecheap        |
+| smart.horse  | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.  |
+| btw.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| acre.horse   | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| texas.horse  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| cot.horse    | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| atop.horse   | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| switch.horse | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| cup.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .horse domains. The set ranges from short, broad words like sky.horse and fork.horse to longer terms such as technology.horse and adolescent.horse. That creates a wide spread of brand styles: some names feel clean and memorable, while others are more literal or niche. The median ask is 53.51, which keeps pricing grounded for early comparisons. When comparing these domains, focus on how naturally the word pairs with .horse, whether the phrase is easy to say and remember, and whether the term feels commercially usable without creating confusion or obvious trademark concerns.
+This is a curated list of 12,384 one-word .horse domain names, each built from a single word with no hyphens or numbers. The median asking price across the set is about $66, giving both investors and founders an affordable way to compare short, brandable names in a novelty extension known for animal, lifestyle, and hobby-themed sites. Updated daily, the list reflects current pricing so you can benchmark value before committing to a purchase.
 
-- All results are one-word domains on the .horse TLD
-- Median ask across this selection is 53.51
-- Short words often read cleaner with .horse
-- Check phrase fit, memorability, and trademark risk
+- 12,384 one-word .horse domain names in this selection
+- Median ask near $66 across the list
+- Short, hyphen-free names ideal for niche or lifestyle brands
+- Updated daily for current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
