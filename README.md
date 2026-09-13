@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .horse one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,137 domains · **Median ask:** $49.30 · **High-demand under $2,500:** 19
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/horse`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| out.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
 | aaa.horse    | available | $41.98    | —             | high           | low    | 3      | namecheap        |
 | cock.horse   | resell    | —         | —             | medium         | low    | 4      | Sav.com LLC      |
 | ADS.horse    | premium   | $500      | —             | high           | medium | 3      | name.com         |
@@ -84,6 +83,7 @@ print(df.head())
 | switch.horse | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
 | cot.horse    | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
 | acre.horse   | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| cup.horse    | premium   | $512      | $29.50        | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
