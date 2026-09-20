@@ -1,10 +1,10 @@
-# Available .HORSE One-Word Domains (27,790)
+# Available .HORSE One-Word Domains (29,331)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C790%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C331%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .horse one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,790 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,331 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,790 domains · **Median ask:** $46.91 · **High-demand under $2,500:** 20
+**Public extract:** 1,000 rows · **Live catalog:** 29,331 domains · **Median ask:** $46.73 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/horse`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| out.horse     | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| off.horse     | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| pure.horse    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
-| present.horse | available | —         | —             | high           | low    | 7      | —                |
-| aaa.horse     | available | $41.98    | —             | high           | low    | 3      | namecheap        |
-| cock.horse    | resell    | —         | —             | medium         | low    | 4      | Sav.com LLC      |
-| ADS.horse     | premium   | $500      | —             | high           | medium | 3      | name.com         |
-| BJP.horse     | available | $43.98    | —             | medium         | low    | 3      | namecheap        |
-| aim.horse     | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| clv.horse     | available | $32.49    | $32.49        | low            | low    | 3      | namesilo         |
-| side.horse    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| are.horse     | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| ing.horse     | available | $32.49    | $32.49        | medium         | low    | 3      | namesilo         |
-| smart.horse   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.  |
-| btw.horse     | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| lii.horse     | available | $32.49    | $32.49        | low            | low    | 3      | namesilo         |
-| texas.horse   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| bum.horse     | premium   | $500      | $46.99        | low            | low    | 3      | name.com         |
-| los.horse     | available | $43.98    | —             | high           | low    | 3      | namecheap        |
-| switch.horse  | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aaa.horse    | available | $41.98    | —             | high           | low    | 3      | namecheap        |
+| cock.horse   | resell    | —         | —             | medium         | low    | 4      | Sav.com LLC      |
+| ads.horse    | premium   | $500      | —             | high           | medium | 3      | name.com         |
+| bjp.horse    | available | $43.98    | —             | medium         | low    | 3      | namecheap        |
+| pure.horse   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| aim.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| clv.horse    | available | $32.49    | $32.49        | low            | low    | 3      | namesilo         |
+| side.horse   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| are.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| ing.horse    | available | $32.49    | $32.49        | medium         | low    | 3      | namesilo         |
+| smart.horse  | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.  |
+| btw.horse    | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| lii.horse    | available | $32.49    | $32.49        | low            | low    | 3      | namesilo         |
+| texas.horse  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| bum.horse    | premium   | $500      | $46.99        | low            | low    | 3      | name.com         |
+| los.horse    | available | $43.98    | —             | high           | low    | 3      | namecheap        |
+| switch.horse | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| cot.horse    | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| acre.horse   | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| cup.horse    | premium   | $512      | $29.50        | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,790 live domains                        |
+| 1,000-row public sample | 29,331 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 20 high-demand names under $2,500          |
+| Basic exported fields   | 18 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
