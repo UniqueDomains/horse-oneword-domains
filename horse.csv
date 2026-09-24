@@ -10,7 +10,7 @@ bcc146dd-407f-4623-b629-b35d0c2e2f40,naturewriting.horse,available,32.49,32.49,l
 6091a234-9523-45e7-af41-bb150b12a151,reasonable.horse,available,32.49,32.49,high,low,10,namesilo,,,
 82265323-e862-4770-a98f-2a95f9fc1153,oldtimer.horse,available,32.49,32.49,medium,low,9,namesilo,,,08/09/2026 04:46
 b1744c67-8bd1-4d93-8eb1-1733e702b8e7,blob.horse,available,32.49,32.49,medium,low,4,namesilo,,,
-88f8360a-da5f-4e4d-9db0-477b8c7374e7,expert.horse,premium,512,29.5,medium,low,6,namesilo,,,19/09/2026 12:41
+88f8360a-da5f-4e4d-9db0-477b8c7374e7,expert.horse,premium,512,29.5,medium,low,6,namesilo,,,23/09/2026 15:34
 08a2695e-b561-42f1-845a-534c4a9d3e35,alienating.horse,available,32.49,32.49,low,low,10,namesilo,,,
 7929b782-3f9d-4758-bc19-a01bdc2997d9,hardworking.horse,available,32.49,32.49,high,low,11,namesilo,,,
 8915d984-8999-4109-95c9-4d728ab36806,likehell.horse,available,32.49,32.49,low,low,9,namesilo,,,15/09/2026 11:35
@@ -22,7 +22,7 @@ c69b442e-f5ff-428f-b501-4fec32a6589e,violation.horse,available,32.49,32.49,mediu
 5f14eb62-b07f-4d53-9f28-622bcb13f67a,beauteous.horse,available,32.49,32.49,low,low,9,namesilo,,,09/08/2026 05:58
 c2f081e4-a55c-47de-b9eb-5782e3b03ec8,board.horse,available,32.49,32.49,medium,low,5,namesilo,,,
 fbc9bac7-7725-48ba-8628-d5e4e7783508,accept.horse,available,32.49,32.49,medium,low,6,namesilo,,,
-7eb3dc7e-20e5-43e5-92e0-112bf8c79870,out.horse,premium,512,29.5,medium,low,3,namesilo,,,19/09/2026 10:34
+7eb3dc7e-20e5-43e5-92e0-112bf8c79870,out.horse,premium,520,32.5,medium,low,3,namecheap,,,23/09/2026 05:30
 ae88f502-8531-4ab6-86bb-95170e6ec585,clipthechurch.horse,available,32.49,32.49,high,low,15,namesilo,,,
 f87edd27-0c9c-49c3-95b8-5b1497e5b400,lego.horse,available,,,high,low,4,,,,
 cb72bbb7-61d4-43f1-85e9-24cbc1388932,bringing.horse,available,43.98,,medium,low,8,namecheap,,,
@@ -62,13 +62,13 @@ eaa009c0-eed7-48b8-aa84-f737fc6cdf10,texas.horse,resell,,,high,low,5,"GoDaddy.co
 8a65271d-797e-43f7-8299-f1bf8980e593,lordly.horse,available,32.49,32.49,low,low,6,namesilo,,,07/08/2026 17:05
 59b442aa-7a11-443c-baff-5e47a8646964,intersection.horse,available,43.98,,medium,low,12,namecheap,,,
 05265c39-4ee1-4158-a218-f033c5b0e8ec,token.horse,available,,,high,low,5,,,,
-50691a32-2621-43d3-84c4-c9d6f5d9162f,contingent.horse,available,32.49,32.49,high,low,10,namesilo,,,
+50691a32-2621-43d3-84c4-c9d6f5d9162f,contingent.horse,available,32.49,32.49,low,low,10,namesilo,,,23/09/2026 22:07
 fd6a9d71-c354-42e4-a446-4c14898ce743,conceal.horse,available,32.49,32.49,medium,low,7,namesilo,,,
 fdea5ba6-37f6-4a55-b4fd-c480998954c9,acherontic.horse,available,32.49,32.49,low,low,10,namesilo,,,
 c79efe53-22fb-4352-ad3d-dbdbc1afbb69,swallow.horse,available,32.49,32.49,medium,low,7,namesilo,,,
 8e4c182e-cfc3-4f5e-ad87-e9db51a5024b,transfer.horse,available,32.49,32.49,medium,low,8,namesilo,,,19/09/2026 03:42
 9d2710a5-b986-4fea-bfde-c7b8810ee491,rookie.horse,available,43.98,,high,low,6,namecheap,,,
-e3701293-ee03-4fda-86e1-64803481d8ae,spoof.horse,available,32.49,32.49,high,low,5,namesilo,,,
+e3701293-ee03-4fda-86e1-64803481d8ae,spoof.horse,available,32.49,32.49,low,low,5,namesilo,,,23/09/2026 11:26
 7e5ceacb-0007-484d-9cd6-6a5f0b200e70,riseabove.horse,available,32.49,32.49,medium,low,10,namesilo,,,
 1ea603f6-869e-4d53-9d1c-6fc32de72625,antitrust.horse,available,32.49,32.49,low,low,9,namesilo,,,
 e44c5c9a-c7d4-4409-8f26-d6ad81387772,eachandevery.horse,available,43.98,,medium,low,14,namecheap,,,
@@ -103,7 +103,6 @@ e893a8c4-961d-4e08-b527-03903143baf7,baccate.horse,available,32.49,32.49,low,low
 1191c80a-f972-4ba6-b75d-0e079843d2c1,twentysix.horse,available,32.49,32.49,medium,low,10,namesilo,,,21/09/2026 12:53
 7916f7c9-8437-490c-a354-db67a7a99253,foreign.horse,available,32.49,32.49,low,low,7,namesilo,,,
 ee11442a-55a0-4e3f-a513-cf75783ded14,magnifyingglass.horse,available,32.49,32.49,high,low,16,namesilo,,,
-0501440e-80f1-48b2-9649-0b1f08fcaacd,server.horse,available,,,medium,low,6,,,,
 7f3d9f47-7e7b-4c94-a15e-8f22810697cf,datatable.horse,available,32.49,32.49,high,low,10,namesilo,,,
 440cd7dd-bb3c-48bf-9c98-a2f42d4c06e1,beautifully.horse,available,32.49,32.49,medium,low,11,namesilo,,,
 2661dbb4-edc2-4ebd-bb1c-3a9938b30ca8,iseeyou.horse,available,32.49,32.49,medium,low,9,namesilo,,,
@@ -141,10 +140,10 @@ d4a86ea6-a27c-4e18-9852-9ae584a6784d,aside.horse,available,32.49,32.49,high,low,
 cea03475-01f3-467d-afa9-f92c0792675d,frenchpancake.horse,available,43.98,,high,low,14,namecheap,,,
 17cef562-c1be-40e4-b470-ce4162e65fe0,gently.horse,available,43.98,,high,low,6,namecheap,,,
 344c95e2-a3f9-49dc-a9b7-b437047e7671,foursome.horse,available,32.49,32.49,low,low,8,namesilo,,,
-6e10b408-2ca2-41ef-9192-7edc8419fb1f,snap.horse,available,32.49,32.49,high,medium,4,namesilo,,,
+6e10b408-2ca2-41ef-9192-7edc8419fb1f,snap.horse,available,32.49,32.49,medium,low,4,namesilo,,,24/09/2026 01:20
 f737b635-abf5-4dd9-99a6-04f5b38403a5,quartet.horse,available,32.49,32.49,low,low,7,namesilo,,,
 31162b5f-9318-4107-94a4-16677b40b622,shock.horse,available,43.98,,medium,low,5,namecheap,,,
-2b19de77-9424-411b-9e40-bafa6cfe4baa,eye.horse,premium,47.2,29.5,medium,low,3,namesilo,,,
+2b19de77-9424-411b-9e40-bafa6cfe4baa,eye.horse,premium,47.2,29.5,low,low,3,namesilo,,,23/09/2026 13:32
 0ae67519-746c-4717-acca-9bc1fcf8a6f1,seem.horse,available,32.49,32.49,high,low,4,namesilo,,,
 96a1a44b-1268-4046-92f6-84246b5d155f,often.horse,available,43.98,,high,low,5,namecheap,,,
 86c2f6e6-3fd4-47e5-83ce-34ae648fe097,parkingspot.horse,available,32.49,32.49,high,low,12,namesilo,,,
@@ -343,7 +342,7 @@ ac8326b7-2c13-405a-ad17-91e53000aba2,showed.horse,available,32.49,32.49,low,low,
 b1f63415-43e3-4ddf-9926-020c0c38671a,rust.horse,premium,100,,medium,low,4,name.com,,,
 713a125c-e7da-44ad-b094-e88fc6ba1c0e,giveamanafish.horse,available,32.49,32.49,medium,low,17,namesilo,,,
 8921079d-4bba-4de2-a0b1-40886624cfbe,amidships.horse,available,32.49,32.49,low,low,9,namesilo,,,
-c0524224-c0e5-453d-8f09-3071a3fe4952,obese.horse,available,32.49,32.49,high,low,5,namesilo,,,
+c0524224-c0e5-453d-8f09-3071a3fe4952,obese.horse,available,32.49,32.49,low,low,5,namesilo,,,23/09/2026 23:32
 b50805bb-71f5-4742-9d7b-8ac4a42e0d0d,halo.horse,available,32.49,32.49,high,medium,4,namesilo,,,
 68c59495-d674-4d9c-b4e8-e6d06805db83,bastardly.horse,available,32.49,32.49,low,low,9,namesilo,,,08/08/2026 23:53
 2de404ae-3c70-4860-8c38-fb7ba2a95983,prenatal.horse,available,32.49,32.49,medium,low,8,namesilo,,,22/09/2026 05:55
@@ -403,12 +402,12 @@ c70659ae-5c10-4a8c-866d-2ba03ad26eea,carsick.horse,available,33.98,43.98,low,low
 17b62d87-8fc2-401d-89b3-45a2f67a2a6f,province.horse,available,32.49,32.49,medium,low,8,namesilo,,,
 5cb819e6-5d0a-4384-b6dd-866c04fe01c4,alky.horse,available,32.49,32.49,low,low,4,namesilo,,,
 2892df5a-dd1a-4002-99d4-94891f6d607e,restinpeace.horse,available,32.49,32.49,low,low,13,namesilo,,,
-d5a9e400-2841-42b9-a208-fc8b7c4b3198,experiment.horse,available,32.49,32.49,high,low,10,namesilo,,,
+d5a9e400-2841-42b9-a208-fc8b7c4b3198,experiment.horse,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 08:49
 39c40107-72ad-4c34-acd9-50f6ded839ed,howareyougoing.horse,available,32.49,32.49,medium,low,17,namesilo,,,
 43b93037-ae49-4919-acd0-e425ac217b0e,acuminate.horse,available,32.49,32.49,low,low,9,namesilo,,,
 e2e690cd-0b51-4bad-8b9d-b0950e40283a,island.horse,premium,96,29.5,high,low,6,namesilo,,,
 5cd95596-83a6-4852-b992-d98a4284ca44,aryan.horse,available,,,high,low,5,,,,
-7f0653fd-7e06-4680-a856-d922f3d15a28,discourse.horse,available,32.49,32.49,high,low,9,namesilo,,,
+7f0653fd-7e06-4680-a856-d922f3d15a28,discourse.horse,available,32.49,32.49,medium,low,9,namesilo,,,23/09/2026 22:52
 ea3b2df4-7072-4ba9-b467-f17889942425,asthmatic.horse,available,32.49,32.49,low,low,9,namesilo,,,22/09/2026 10:23
 46230f58-231f-4175-87b9-cab7c6439718,blackdiamond.horse,available,32.49,32.49,high,low,13,namesilo,,,
 fec19f9e-abe3-4e5c-abc1-c89cebd5d48b,give.horse,available,32.49,32.49,high,low,4,namesilo,,,
@@ -446,14 +445,13 @@ fd66f585-2afc-4fb3-93c0-2a8f7a2fecd6,aversive.horse,available,32.49,32.49,low,lo
 1e3bf3c6-97f5-486d-82a8-abf4bd5a3f4c,idolized.horse,available,32.49,32.49,low,low,8,namesilo,,,
 d6be01df-e573-4d86-ad41-eabb18e38946,assuring.horse,available,32.49,32.49,low,low,8,namesilo,,,07/08/2026 08:31
 45b47885-b1f8-44c3-a30b-6f31e6e0885e,bones.horse,available,43.98,,medium,low,5,namecheap,,,
-278b3832-a938-4fbc-8eaa-7bf11f2332b4,parody.horse,available,32.49,32.49,high,low,6,namesilo,,,
+278b3832-a938-4fbc-8eaa-7bf11f2332b4,parody.horse,available,32.49,32.49,medium,low,6,namesilo,,,23/09/2026 11:34
 094cc114-8fd0-49d8-b27d-ee0c5fe2495f,moneyed.horse,available,32.49,32.49,low,low,7,namesilo,,,
 138586a2-210a-46bb-bc7c-650f469901b2,select.horse,premium,100,46.99,medium,low,6,name.com,,,22/09/2026 23:07
 d90ada07-6954-46f6-a8f2-843ca50f62ed,bornyesterday.horse,available,32.49,32.49,medium,low,14,namesilo,,,
 62549e86-2899-4e1b-9061-f90b50a31cf3,berried.horse,available,32.49,32.49,low,low,7,namesilo,,,08/08/2026 04:45
 4cd30a75-b953-49d4-9faa-c416edf87045,barter.horse,available,32.49,32.49,medium,low,6,namesilo,,,
 06705443-1071-4b8d-b006-5466d76dbe58,theory.horse,available,43.98,,high,low,6,namecheap,,,
-ba539049-5afe-4365-8974-1ad5508d3a59,smart.horse,resell,,,high,medium,5,"Spaceship, Inc.",11/10/2022 19:55,11/10/2026 19:55,
 70b8746b-06fe-4694-bf48-13e494375d16,lowcost.horse,available,32.49,32.49,low,low,8,namesilo,,,
 10f1d78d-ec72-484d-bbbd-9bd086f64e61,acentric.horse,available,32.49,32.49,low,low,8,namesilo,,,
 5cb892a3-4ea5-4742-822a-de15f6c4a700,keepinmind.horse,available,43.98,,high,low,12,namecheap,,,
@@ -549,14 +547,14 @@ c3c6dd88-1000-41b3-9248-df1bdc579d99,broached.horse,available,32.49,32.49,low,lo
 5b5c48e1-b1a1-4c69-bc41-dde6faaf9682,solicit.horse,available,43.98,,high,low,7,namecheap,,,
 db88ecd6-c6ab-46e0-97a9-46540b0e8a9a,split.horse,available,43.98,,medium,low,5,namecheap,,,
 ade55769-2482-4b09-819a-b843e3387891,abovenamed.horse,available,32.49,32.49,low,low,11,namesilo,,,
-487692e1-e9df-4b11-bbc8-a29da77f7418,curse.horse,available,32.49,32.49,high,low,5,namesilo,,,
+487692e1-e9df-4b11-bbc8-a29da77f7418,curse.horse,available,32.49,32.49,low,low,5,namesilo,,,24/09/2026 04:27
 c4549335-cc5e-4456-b284-a55835866c7f,person.horse,available,32.49,32.49,high,low,6,namesilo,,,
 cc7a2993-f7d1-47bb-bcb8-3f53b40ce9de,wording.horse,available,32.49,32.49,high,low,7,namesilo,,,
 26f85179-78b5-4615-8ce0-8e5149fa2a39,various.horse,available,32.49,32.49,high,low,7,namesilo,,,
 b7302aa4-370a-4c8c-8038-8c17667aac31,influenced.horse,available,32.49,32.49,medium,low,10,namesilo,,,
 c5d416a8-4224-479a-9b75-cc0825338ade,baldfaced.horse,available,32.49,32.49,low,low,10,namesilo,,,08/08/2026 09:26
 23f73ff5-35fa-4a59-858f-e4508b8bef40,givenotice.horse,available,32.49,32.49,medium,low,11,namesilo,,,
-eff6bac4-ddbe-4b46-aeb1-c9671874136e,compatible.horse,available,32.49,32.49,high,low,10,namesilo,,,
+eff6bac4-ddbe-4b46-aeb1-c9671874136e,compatible.horse,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 16:57
 629b690c-ca58-40a4-8984-9a8f63559b44,thisisit.horse,available,32.49,32.49,low,low,10,namesilo,,,
 540b4057-0b8e-4d3f-b433-18d1defd65c4,thirtytwo.horse,available,32.49,32.49,low,low,10,namesilo,,,
 96a5f3b5-837f-4c18-a3f2-4b202dc5543f,springshower.horse,available,32.49,32.49,low,low,13,namesilo,,,
@@ -631,7 +629,7 @@ c44f646e-4e6e-4dfa-8cf6-443feda34f07,wedge.horse,available,32.49,32.49,medium,lo
 e375949e-f846-4c89-8b23-85187760b196,webbrowser.horse,available,32.49,32.49,high,low,11,namesilo,,,
 6e539a16-b328-4554-985e-6eee7302a919,wiring.horse,available,32.49,32.49,high,low,6,namesilo,,,
 0251486b-af8b-48f4-bc2f-ec5136633d7e,flooded.horse,available,32.49,32.49,low,low,7,namesilo,,,08/08/2026 00:23
-1c0c01a0-d5b3-4304-8677-be6e1c85ec8d,succinct.horse,available,32.49,32.49,medium,low,8,namesilo,,,
+1c0c01a0-d5b3-4304-8677-be6e1c85ec8d,succinct.horse,available,32.49,32.49,medium,low,8,namesilo,,,23/09/2026 17:07
 6e37fd74-c89c-440a-8b99-261cc723e777,ecological.horse,available,33.98,43.98,medium,low,10,namecheap,,,22/09/2026 21:01
 9f7d97c0-1822-43cb-9759-405ed8565f77,surfcity.horse,available,32.49,32.49,medium,low,9,namesilo,,,
 5332e8e2-9de6-4f3d-a813-6f954e1776b9,meter.horse,available,32.49,32.49,high,low,5,namesilo,,,
@@ -712,7 +710,7 @@ f5f86780-fb4e-4328-90ef-815083d368cf,neighbor.horse,available,32.49,32.49,medium
 cec6d735-ace1-4566-bb83-044b42d8a3ca,acute.horse,available,33.98,43.98,medium,low,5,namecheap,,,21/09/2026 16:39
 f83b36a1-a9ef-4c25-92b7-712cdf72dc3e,inthehotseat.horse,available,32.49,32.49,medium,low,15,namesilo,,,
 09eeb836-c18f-4dd6-8cc7-578d0739b896,shapeless.horse,available,33.98,43.98,low,low,9,namecheap,,,
-10d1539f-d8f7-470d-9511-e22dfcdb53da,textbook.horse,available,32.49,32.49,high,low,8,namesilo,,,
+10d1539f-d8f7-470d-9511-e22dfcdb53da,textbook.horse,available,33.98,43.98,medium,low,8,namecheap,,,23/09/2026 13:09
 4225b91f-1358-42fb-b99d-0e70cedec6a7,thousandth.horse,available,32.49,32.49,low,low,10,namesilo,,,
 d9f8ea2a-1dd8-4e0b-82bd-ed98047f971b,lit.horse,premium,47.2,29.5,high,medium,3,namesilo,,,
 b2fd38f5-1a3d-4e67-ac3c-6b8dce9c08d5,middleage.horse,available,32.49,32.49,medium,low,10,namesilo,,,
@@ -736,7 +734,7 @@ f59b7a6d-355c-447f-8f82-15328b598cbd,nightlong.horse,available,32.49,32.49,low,l
 878d4f2c-6150-40e2-939e-4d0b77cec06c,whisking.horse,available,32.49,32.49,medium,low,8,namesilo,,,
 f98e7c07-f13e-488c-8aa2-560359c77722,aperient.horse,available,32.49,32.49,low,low,8,namesilo,,,05/08/2026 22:09
 626ce9bb-cab7-405d-9d38-80a36a10d760,childlabour.horse,available,32.49,32.49,medium,low,12,namesilo,,,
-e861c7a6-62f2-48ee-9eea-58f6f0f5139e,commanding.horse,available,32.49,32.49,high,low,10,namesilo,,,
+e861c7a6-62f2-48ee-9eea-58f6f0f5139e,commanding.horse,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 15:41
 4b0e4b9e-9622-497a-a7f9-a6396cfa4caa,bytheway.horse,available,32.49,32.49,medium,low,10,namesilo,,,
 217c1672-531f-4067-b52e-8ea31a4a95cb,fairy.horse,available,32.49,32.49,high,low,5,namesilo,,,
 ae1bf96d-1d48-46df-bbc6-9d9a05623ad3,afebrile.horse,available,32.49,32.49,low,low,8,namesilo,,,
@@ -774,7 +772,7 @@ ecaa8e49-552c-4206-98ea-b2af207f855d,wakeup.horse,available,32.49,32.49,medium,l
 445e71c6-11a3-4342-af8a-1fb3f3724642,choc.horse,available,32.49,32.49,high,low,4,namesilo,,,
 449fd418-4430-4e09-bb80-daadc9b687e8,favorite.horse,available,41.98,,medium,low,8,namecheap,,,
 2f1faee2-0d7d-43d7-8da2-967de734ec2c,afterwards.horse,available,32.49,32.49,low,low,10,namesilo,,,
-5c45eae4-7875-43e4-86f8-0a739edadd60,coveted.horse,available,32.49,32.49,high,low,7,namesilo,,,
+5c45eae4-7875-43e4-86f8-0a739edadd60,coveted.horse,available,32.49,32.49,low,low,7,namesilo,,,24/09/2026 00:56
 3d829559-09e5-43ab-98e8-f1d21b0f9410,psyche.horse,available,43.98,,medium,low,6,namecheap,,,
 e2c3cc13-106d-4404-b2cb-98aa00d920b7,crackers.horse,available,32.49,32.49,low,low,8,namesilo,,,06/08/2026 20:45
 e451aa6f-eda7-4c10-b626-260a97c83dc3,dozen.horse,available,32.49,32.49,medium,low,5,namesilo,,,21/09/2026 11:29
@@ -800,7 +798,7 @@ f7dcda1b-b416-428b-9a68-7285dc3efd07,clowning.horse,available,32.49,32.49,medium
 a05cd097-ab17-4e93-9a6b-745ebf08f633,arctic.horse,available,32.49,32.49,low,low,6,namesilo,,,06/08/2026 16:07
 e3e203a2-dfd7-41ee-bedb-6e56eb334c95,watt.horse,available,32.49,32.49,medium,low,4,namesilo,,,
 e43f3a7f-c30d-4bcb-9730-63cb6837cf29,veggie.horse,available,32.49,32.49,medium,low,6,namesilo,,,19/09/2026 06:34
-cab4ead5-a2bb-43bb-a052-2e7187dabc2c,changing.horse,available,32.49,32.49,medium,low,8,namesilo,,,
+cab4ead5-a2bb-43bb-a052-2e7187dabc2c,changing.horse,available,32.49,32.49,low,low,8,namesilo,,,23/09/2026 13:46
 3d5636e4-8bce-4301-8c12-3023c75ffeaa,antithetic.horse,available,32.49,32.49,low,low,10,namesilo,,,05/08/2026 19:49
 724e4ba7-0cda-48e2-a668-f746df821cc0,gag.horse,premium,500,,high,low,3,name.com,,,
 56c20883-b026-4544-a2ba-5924bd698a3d,avon.horse,available,32.49,32.49,high,low,4,namesilo,,,
@@ -861,7 +859,7 @@ dc618872-62e3-4d9d-a689-adeff89133e6,almond.horse,available,32.49,32.49,medium,l
 8d6ed348-b4c6-4c9b-940f-71bf323aa0ed,trading.horse,available,,,high,low,7,,,,
 1598eeff-a0f8-4216-a3f5-107782aa2808,oldest.horse,available,32.49,32.49,high,low,6,namesilo,,,
 a9cb0c3c-0838-4757-b7a9-5095d5007432,belgian.horse,available,,,medium,low,7,,,,
-1687ba67-3754-4f4d-a2d6-418a5e459e12,realized.horse,available,32.49,32.49,high,low,8,namesilo,,,
+1687ba67-3754-4f4d-a2d6-418a5e459e12,realized.horse,available,32.49,32.49,medium,low,8,namesilo,,,23/09/2026 17:28
 2613e634-12dd-4d1b-aa57-02c23c684fae,monumental.horse,available,32.49,32.49,medium,low,10,namesilo,,,
 613bd3a9-25ff-439c-be08-2d9fde504592,caper.horse,available,32.49,32.49,medium,low,5,namesilo,,,22/09/2026 06:32
 3b21b0ff-8894-420f-ac92-a1fe212f9b3b,nonplussed.horse,available,32.49,32.49,low,low,10,namesilo,,,07/08/2026 10:48
@@ -927,7 +925,7 @@ f9d5018f-9ea2-4f22-8425-14ea901c7722,coldrubber.horse,available,32.49,32.49,medi
 707d0260-61ff-4372-bb28-9b71f1edf335,schmalzy.horse,available,32.49,32.49,low,low,8,namesilo,,,09/08/2026 01:09
 db006d63-ac0b-4d19-b382-56b3f9ded765,fearless.horse,available,32.49,32.49,medium,low,8,namesilo,,,22/09/2026 12:19
 43c0fd58-19cc-40bf-b03e-be57b06d6070,commoncold.horse,available,32.49,32.49,medium,low,11,namesilo,,,
-75d4a4e0-edb4-4daa-8c22-cce3198c414b,photo.horse,premium,2500,,high,medium,5,name.com,,,
+75d4a4e0-edb4-4daa-8c22-cce3198c414b,photo.horse,premium,2660,29.5,medium,low,5,namesilo,,,23/09/2026 06:22
 6e419e62-fc48-4a49-947f-c330b9eedb32,placatory.horse,available,32.49,32.49,low,low,9,namesilo,,,06/08/2026 06:12
 4de1cfe8-3fef-44c3-9e3a-3fd838778703,advertent.horse,available,32.49,32.49,low,low,9,namesilo,,,
 fbd84e2b-e80a-4f7a-9ab2-813ee68211c4,doable.horse,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 15:46
@@ -940,7 +938,7 @@ ef92abae-19e8-468b-b8a8-ba9e3992e77c,nowwhat.horse,available,32.49,32.49,low,low
 25bc47e0-8ce4-46f2-99a6-2c552f0cbd53,modal.horse,available,32.49,32.49,high,low,5,namesilo,,,
 0b91da30-ac1a-4625-9271-b545c7651cd2,bucketlist.horse,available,32.49,32.49,high,low,11,namesilo,,,
 ab106c6a-e2cf-490a-ad0f-dfa5b776cac6,steeltoeboot.horse,available,32.49,32.49,high,low,14,namesilo,,,
-8d7d9821-2e14-4944-a858-47ff90c72f4a,preventive.horse,available,32.49,32.49,high,low,10,namesilo,,,
+8d7d9821-2e14-4944-a858-47ff90c72f4a,preventive.horse,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 22:24
 c53853e2-e311-439d-b214-ef777d0275e4,revolution.horse,available,43.98,,medium,low,10,namecheap,,,
 e1513d3c-7686-4283-94ce-d6e0e1ddcab3,aliform.horse,available,32.49,32.49,low,low,7,namesilo,,,
 289ed7d3-45ac-4e04-bcaf-6195d3ffb701,subtle.horse,available,32.49,32.49,high,low,6,namesilo,,,
@@ -992,10 +990,12 @@ d3af4ef7-d7b6-434b-9e31-67e298a58506,coolly.horse,available,32.49,32.49,high,low
 e7fdb6aa-3826-469a-8fd9-e47e70e2ec3a,howdiditgo.horse,available,32.49,32.49,medium,low,13,namesilo,,,
 08a5b1f3-9916-4721-9d05-5739637b554b,cosmos.horse,available,32.49,32.49,high,low,6,namesilo,,,
 a9e92857-e55e-494d-8527-657711206c3a,actinoid.horse,available,32.49,32.49,low,low,8,namesilo,,,
-812a5061-10b7-410b-9fba-b51998fef623,conclusion.horse,available,32.49,32.49,high,low,10,namesilo,,,
+812a5061-10b7-410b-9fba-b51998fef623,conclusion.horse,available,33.98,43.98,medium,low,10,namecheap,,,23/09/2026 14:51
 c17b8ccc-a146-4485-bf54-1a33078fc0e2,ageless.horse,available,32.49,32.49,medium,low,7,namesilo,,,
 b530d66d-1d39-487c-ab87-f21608a3861c,ninetysix.horse,available,32.49,32.49,low,low,10,namesilo,,,
 8012d695-4a9a-499a-ba84-ae6e4ab16952,amusing.horse,available,33.98,43.98,low,low,7,namecheap,,,
-37be9342-3a27-49f0-b912-0e50c6cfccad,continual.horse,available,32.49,32.49,medium,low,9,namesilo,,,
+37be9342-3a27-49f0-b912-0e50c6cfccad,continual.horse,available,32.49,32.49,low,low,9,namesilo,,,23/09/2026 22:10
 595bde8b-f059-46bd-bf7f-bacbc52160af,knock.horse,available,32.49,32.49,medium,low,5,namesilo,,,
 c9b1250f-a79f-44ce-bfc6-bc9132923eae,definitively.horse,available,32.49,32.49,medium,low,12,namesilo,,,
+f4bf2f2d-16cb-4bca-8149-fe732a155a0a,llp.horse,premium,47.2,29.5,high,low,3,namesilo,,,
+2b8e2f6d-842f-4051-a098-4084f0d5df89,porticoed.horse,available,32.49,32.49,low,low,9,namesilo,,,
