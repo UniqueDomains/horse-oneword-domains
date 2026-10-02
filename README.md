@@ -1,10 +1,10 @@
-# Available .HORSE One-Word Domains (31,688)
+# Available .HORSE One-Word Domains (33,242)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C688%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C242%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .horse one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,688 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,242 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,688 domains · **Median ask:** $51.76 · **High-demand under $2,500:** 70
+**Public extract:** 1,000 rows · **Live catalog:** 33,242 domains · **Median ask:** $50.91 · **High-demand under $2,500:** 71
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/horse`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| aar.horse  | available | $33.98    | $43.98        | medium         | low    | 3      | namecheap |
-| nano.horse | resell    | —         | —             | high           | medium | 4      | —         |
-| any.horse  | premium   | $500      | $46.99        | high           | medium | 3      | name.com  |
-| blm.horse  | available | $26.08    | $26.08        | high           | low    | 3      | spaceship |
-| bow.horse  | premium   | $512      | $29.50        | high           | low    | 3      | namesilo  |
-| cas.horse  | available | $26.08    | $26.08        | high           | low    | 3      | spaceship |
-| chi.horse  | premium   | $440      | $26.97        | high           | low    | 3      | dynadot   |
-| cbo.horse  | available | $32.49    | $32.49        | high           | low    | 3      | namesilo  |
-| fax.horse  | premium   | $512      | $29.50        | high           | low    | 3      | namesilo  |
-| cui.horse  | available | $26.97    | $26.97        | high           | low    | 3      | dynadot   |
-| fes.horse  | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship |
-| fms.horse  | available | $32.49    | $32.49        | high           | low    | 3      | namesilo  |
-| fil.horse  | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship |
-| fta.horse  | available | $26.08    | $26.08        | high           | low    | 3      | spaceship |
-| fis.horse  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
-| igm.horse  | available | $32.49    | $32.49        | high           | low    | 3      | namesilo  |
-| gus.horse  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
-| lig.horse  | available | $26.08    | $26.08        | high           | low    | 3      | spaceship |
-| ian.horse  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
-| mbe.horse  | available | $32.49    | $32.49        | high           | low    | 3      | namesilo  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| aar.horse | available | $33.98    | $43.98        | medium         | low    | 3      | namecheap  |
+| any.horse | premium   | $500      | $46.99        | high           | medium | 3      | name.com   |
+| afa.horse | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare |
+| bow.horse | premium   | $512      | $29.50        | high           | low    | 3      | namesilo   |
+| blm.horse | available | $26.08    | $26.08        | high           | low    | 3      | spaceship  |
+| chi.horse | premium   | $440      | $26.97        | high           | low    | 3      | dynadot    |
+| cas.horse | available | $26.08    | $26.08        | high           | low    | 3      | spaceship  |
+| fax.horse | premium   | $512      | $29.50        | high           | low    | 3      | namesilo   |
+| cbo.horse | available | $32.49    | $32.49        | high           | low    | 3      | namesilo   |
+| fes.horse | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship  |
+| cui.horse | available | $26.97    | $26.97        | high           | low    | 3      | dynadot    |
+| fil.horse | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship  |
+| fms.horse | available | $32.49    | $32.49        | high           | low    | 3      | namesilo   |
+| fis.horse | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo   |
+| fta.horse | available | $26.08    | $26.08        | high           | low    | 3      | spaceship  |
+| gus.horse | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo   |
+| grt.horse | available | $32.49    | $32.49        | high           | low    | 3      | namesilo   |
+| ian.horse | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo   |
+| hoo.horse | available | $26.08    | $26.08        | medium         | low    | 3      | spaceship  |
+| iff.horse | premium   | $44       | $26.97        | medium         | low    | 3      | dynadot    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,688 live domains                        |
+| 1,000-row public sample | 33,242 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 70 high-demand names under $2,500          |
+| Basic exported fields   | 71 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HORSE One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
